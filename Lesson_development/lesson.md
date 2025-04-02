@@ -1,0 +1,135 @@
+## why is important to use webapi for research
+
+## rest apis in nutshell 
+
+
+## 1   REUSE : SEARCH AND DOWNLOAD DATASETS
+
+- Get 10 datasets published after the 01012025 
+
+
+```bash
+curl "https://data.4tu.nl/v2/articles?item_type=3&limit=10&published_since=2025-01-01" | jq
+
+``` 
+
+- Get 10 software published after the 01012025 
+
+
+```bash
+curl "https://data.4tu.nl/v2/articles?item_type=9&limit=10&published_since=2025-01-01" | jq
+
+``` 
+
+
+- Get 10 datasets published after the 01012025  and save it to a file with info of the title and doi 
+
+```bash
+
+curl "https://data.4tu.nl/v2/articles?item_type=3&limit=10&published_since=2025-01-01" \
+| jq '.[] | "* " + .title + " (" + .doi + ")"' > datasets.md
+
+```
+
+- Get 10 datasets published after the 01012025  and save it to a file with info of the title and doi and published date (ascending order by default)
+
+```bash
+
+curl "https://data.4tu.nl/v2/articles?item_type=3&limit=10&published_since=2025-01-01" \
+| jq '.[] | "* " + .title + " (" + .doi + ") (" + .published_date + ")"' > datasets.md
+
+```
+
+- Get 10 datasets published after the 01012025  and save it to a file with info of the title and doi and published date,in descending order (IT DOES NOT WORK)
+
+```bash
+
+curl "https://data.4tu.nl/v2/articles?item_type=3&limit=10&published_since=2025-01-01&order_direction=desc" \
+| jq '.[] | "* " + .title + " (" + .doi + ") (" + .published_date + ")"' > datasets.md
+
+```
+
+- Get the description and categories of the datasets uploaded in this month 
+    - collect the dataset-id of each dataset fro
+- show how sometimes the searm the output of :
+```bash
+
+curl "https://data.4tu.nl/v2/articles?item_type=3&limit=10&published_since=2025-03-01" \
+| jq '.[] | "* " + .title + " (" + .doi + ") (" + .published_date + ")"' > datasets.md
+
+```
+
+    - Get the description and categories from the endpoint:
+
+```bash
+
+curl https://data.4tu.nl/v2/articles/342efadc-66f8-4e9b-9d27-da7b28b849d2/files| jq
+
+```
+
+
+questions:
+- what would be the 10 most recent datasets?
+- how would be to get the datasets from TUD? or Mechanical enginering? if that is not possible i think it iw worth to mention 
+    - WHat I see is that the webapi only allows retrieval of this info per dataset. 
+- does the order_direction parameter not work? 
+
+
+## Search datasets
+
+
+```bash
+curl --request POST  --header "Content-Type: application/json" --data '{ "search_for": "djehuty" }' https://data.4tu.nl/v2/articles/search | jq
+```
+
+- examples that does not match (they dont return anything in the webapi  while in the website they do)
+
+```bash
+curl --request POST  --header "Content-Type: application/json" --data '{ "search_for": "mechanical engineering" }' https://data.4tu.nl/v2/articles/search | jq
+```
+
+```bash
+curl --request POST  --header "Content-Type: application/json" --data '{ "search_for": "Nanomechanical String Resonators" }' https://data.4tu.nl/v2/articles/search | jq
+
+```
+
+### Getting info of the authors of the account that the token belong to 
+
+
+```bash
+
+curl --request POST --header "Authorization: token YOUR_API_TOKEN_MAIN" --header "Content-Type: application/json" --data '{ "search": "Leila Iñigo" }' https://data.4tu.nl/v2/account/authors/search | jq > author_info.md
+
+``` 
+
+## Upload datasets 
+
+
+- use a bash script here to not write the token in the terminal 
+
+- simplest upload
+
+```bash
+
+curl --header "Authorization: token YOUR_TOKEN_NEXT" --header "Content-Type: application/json" --data '{ "title": "Example dataset" }' https://data.4tu.nl/v2/account/articles | jq
+
+```
+
+- adding author 
+
+```bash
+
+curl --header "Authorization: token YOUR_TOKEN_NEXT" --header "Content-Type: application/json" --data '{ "title": "Example dataset" , "authors": [{ "first_name": "John" ,"full_name": "John Doe","last_name": "Doe", "orcid_id": "0000-0003-4324-5350"}}' https://data.4tu.nl/v2/account/articles | jq
+
+```
+
+- To upload a dataset in ehich the metadata is written in a yaml file 
+
+```bash
+
+yq '.' Lesson_development/example_metadata.yaml | curl -X POST https://next.data.4tu.nl/v2/account/articles -H "Authorization: token ${API_TOKEN_NEXT}" -H "Content-Type: application/json" -d @-
+
+
+```
+
+## for more complicated examples is better to use the help of Python or R. 

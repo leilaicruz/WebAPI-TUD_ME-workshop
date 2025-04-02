@@ -1,0 +1,2942 @@
+[
+  {
+    "id": 13622,
+    "uuid": "01fddd41-68d2-4e28-9d9c-18347847e7d1",
+    "title": "Mining and Extraction of Energy Resources",
+    "parent_id": 13620,
+    "parent_uuid": "6e5bdc69-96db-41e4-ac0b-18812b46c49c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13443,
+    "uuid": "026f555c-2826-4a83-97ff-0f230fb54ddb",
+    "title": "Livestock Raising",
+    "parent_id": 13440,
+    "parent_uuid": "45a8c849-ab59-4302-af79-09b8c0677df8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13602,
+    "uuid": "03164aaf-f24b-4481-88ad-28664b44a7e2",
+    "title": "Other Chemical Sciences",
+    "parent_id": 13594,
+    "parent_uuid": "f257102c-f3f9-4c4c-9f67-6e977c683ae1",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13403,
+    "uuid": "04c0d7aa-7c46-4a9f-9d83-6053bbb9a28e",
+    "title": "Horticultural Crops",
+    "parent_id": 13401,
+    "parent_uuid": "4d6c5f8b-5ebc-45e6-895e-ab29a802d30b",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13600,
+    "uuid": "0538841d-5b4d-4bad-82ec-4a5d4956551c",
+    "title": "Physical Chemistry (incl. Structural)",
+    "parent_id": 13594,
+    "parent_uuid": "f257102c-f3f9-4c4c-9f67-6e977c683ae1",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13513,
+    "uuid": "05dd12ff-7e0b-4d54-9e67-a92bd3f12036",
+    "title": "Construction Processes",
+    "parent_id": 13509,
+    "parent_uuid": "d8187a7c-be9c-45eb-84e9-5c6c3cf7b8c8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13499,
+    "uuid": "06f4f0ef-dc8a-4886-ba70-51a267f5a35d",
+    "title": "Other Cultural Understanding",
+    "parent_id": 13493,
+    "parent_uuid": "71c98269-4815-434e-aa33-c02c98ec11fa",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13648,
+    "uuid": "088fc57d-6224-4df2-871a-b2ef92fcd7b2",
+    "title": "Education Systems",
+    "parent_id": 13647,
+    "parent_uuid": "f1dde23e-da6f-4134-9bcb-e4b70ef74c27",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13476,
+    "uuid": "0950e46f-88e7-43c8-8ccb-460d35f53adf",
+    "title": "Cardiorespiratory Medicine and Haematology",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13664,
+    "uuid": "0a1dafd3-86a1-4564-8334-1a9996725630",
+    "title": "Aerospace Transport",
+    "parent_id": 13661,
+    "parent_uuid": "0c90ba40-1efb-4691-9e8d-6990e66936b2",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13553,
+    "uuid": "0dec463c-b814-40f4-a6fc-1b1002644790",
+    "title": "Geochemistry",
+    "parent_id": 13551,
+    "parent_uuid": "091d4588-f153-48cf-976d-a3f8472008a9",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13599,
+    "uuid": "0f23a22d-8ee2-4a27-aae3-6335347fa0b5",
+    "title": "Organic Chemistry",
+    "parent_id": 13594,
+    "parent_uuid": "f257102c-f3f9-4c4c-9f67-6e977c683ae1",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13561,
+    "uuid": "0f7b8f4c-6b03-4a51-b353-ae7f8ee9d310",
+    "title": "Film, Television and Digital Media",
+    "parent_id": 13559,
+    "parent_uuid": "db8f9168-1f8a-4a82-8bad-e73003101ff7",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13470,
+    "uuid": "103018bd-3fb4-4b93-969a-7f013c227c0e",
+    "title": "Political Science",
+    "parent_id": 13464,
+    "parent_uuid": "d8a59207-d819-4697-adca-d5c4c3fafce6",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13635,
+    "uuid": "11146de8-e7bd-407e-9f33-ef52a8d1774d",
+    "title": "Civil Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13593,
+    "uuid": "1271f370-d4aa-4508-89c9-d1f27d3b0e18",
+    "title": "Other Philosophy and Religious Studies",
+    "parent_id": 13588,
+    "parent_uuid": "61ec1b24-19dd-4e7c-957b-85a4a64ad6f9",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13518,
+    "uuid": "12e4f68d-246b-4905-9031-67239d977ee1",
+    "title": "Communication and Media Studies",
+    "parent_id": 13517,
+    "parent_uuid": "9e4442e7-a3ab-490e-a92d-2cbb054144fc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13371,
+    "uuid": "133bb86d-b9ed-4c2f-aef7-f215d575d007",
+    "title": "Government and Politics",
+    "parent_id": 13369,
+    "parent_uuid": "fb9b04f5-94ce-4712-8af1-dbf69668dfff",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13479,
+    "uuid": "138ecbf1-aaed-4b55-b4f3-35c98fc61d98",
+    "title": "Dentistry",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13587,
+    "uuid": "1627cf1c-40fe-4c9f-9c37-074b289a5070",
+    "title": "Other Biological Sciences",
+    "parent_id": 13578,
+    "parent_uuid": "c9376db2-dd6d-47f1-a329-d1691fc5b485",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13638,
+    "uuid": "170464a0-a5c2-4da7-b34e-71a54eb25d69",
+    "title": "Food Sciences",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13623,
+    "uuid": "1918e1ef-11f3-422b-b482-3392776963fb",
+    "title": "Preparation and Production of Energy Sources",
+    "parent_id": 13620,
+    "parent_uuid": "6e5bdc69-96db-41e4-ac0b-18812b46c49c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13483,
+    "uuid": "19d5c0d5-054d-464a-8681-e369c8c2e480",
+    "title": "Neurosciences",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13416,
+    "uuid": "1a06dc85-828a-464b-9136-d0ce027da82f",
+    "title": "Clinical Health (organs, Diseases and Abnormal Conditions)",
+    "parent_id": 13415,
+    "parent_uuid": "69b9b98e-319b-487b-845b-bfc77d8fa43a",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13461,
+    "uuid": "1ab0f592-976c-47d6-a414-c5920bce62b0",
+    "title": "Water and Waste Services",
+    "parent_id": 13457,
+    "parent_uuid": "f661a6d5-73c0-4448-8cc0-50074eb5f198",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13484,
+    "uuid": "1af60d9c-8a52-4f6a-a918-67696b8673c4",
+    "title": "Nursing",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13597,
+    "uuid": "1ceb250b-e3c5-4d65-9f04-c0d85bcb508b",
+    "title": "Macromolecular and Materials Chemistry",
+    "parent_id": 13594,
+    "parent_uuid": "f257102c-f3f9-4c4c-9f67-6e977c683ae1",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13612,
+    "uuid": "1e31aae4-6cbd-4cf7-8051-50a487e948a2",
+    "title": "Artificial Intelligence and Image Processing",
+    "parent_id": 13611,
+    "parent_uuid": "c78e1734-8680-4846-8bc9-92ba6e9f77ac",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13435,
+    "uuid": "21478842-e957-4537-823b-13530674397b",
+    "title": "Statistics",
+    "parent_id": 13431,
+    "parent_uuid": "849969c4-c742-4e5b-9a26-3cf9be87ef2c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13399,
+    "uuid": "214b1f75-c831-4c9d-81fb-9078ffb4e744",
+    "title": "Soils",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13523,
+    "uuid": "233a9503-5325-4e20-a33c-cd58a46aa546",
+    "title": "Other Language, Communication and Culture",
+    "parent_id": 13517,
+    "parent_uuid": "9e4442e7-a3ab-490e-a92d-2cbb054144fc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13467,
+    "uuid": "2384d49f-e7eb-48b1-ba19-20189c0ae924",
+    "title": "Demography",
+    "parent_id": 13464,
+    "parent_uuid": "d8a59207-d819-4697-adca-d5c4c3fafce6",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13411,
+    "uuid": "242fa1e0-7580-414d-8fe5-0000b2d60e2d",
+    "title": "Ecological Applications",
+    "parent_id": 13410,
+    "parent_uuid": "d82e7f87-5ba4-4acf-9116-deb559908f63",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13510,
+    "uuid": "24cdb3cb-3df8-474d-8b49-1c6e1c8f30e3",
+    "title": "Construction Planning",
+    "parent_id": 13509,
+    "parent_uuid": "d8187a7c-be9c-45eb-84e9-5c6c3cf7b8c8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13521,
+    "uuid": "24e984ee-9023-498e-9eff-8fc31b624818",
+    "title": "Linguistics",
+    "parent_id": 13517,
+    "parent_uuid": "9e4442e7-a3ab-490e-a92d-2cbb054144fc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13495,
+    "uuid": "26811194-a2e6-403d-9fc5-be1a5af1726c",
+    "title": "Communication",
+    "parent_id": 13493,
+    "parent_uuid": "71c98269-4815-434e-aa33-c02c98ec11fa",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13564,
+    "uuid": "26ff711f-8c2b-4e54-bcc5-a6fc35894036",
+    "title": "Visual Arts and Crafts",
+    "parent_id": 13559,
+    "parent_uuid": "db8f9168-1f8a-4a82-8bad-e73003101ff7",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13530,
+    "uuid": "27077d7a-f4a6-45fe-9bf4-cd2741ae94d9",
+    "title": "Industrial Chemicals and Related Products",
+    "parent_id": 13524,
+    "parent_uuid": "49bb2c48-9696-4813-ab2c-8985fb8ec1db",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13445,
+    "uuid": "281959c2-f6db-4e01-9ab2-c8192f20f236",
+    "title": "Primary Animal Products",
+    "parent_id": 13440,
+    "parent_uuid": "45a8c849-ab59-4302-af79-09b8c0677df8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13398,
+    "uuid": "294375e4-c445-4ee7-a114-061593dba58d",
+    "title": "Remnant Vegetation and Protected Conservation Areas",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13643,
+    "uuid": "2962f78d-d76c-48dd-a446-487dee9afe5f",
+    "title": "Mechanical Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13506,
+    "uuid": "2a5f77fd-6306-482d-9407-f23df878cde1",
+    "title": "Tourism",
+    "parent_id": 13500,
+    "parent_uuid": "0f682048-e983-45a9-ae74-7faeb7031169",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13575,
+    "uuid": "2aa3e0a0-f6c6-42a4-9de3-5b1607253078",
+    "title": "School/institution",
+    "parent_id": 13571,
+    "parent_uuid": "5766da5e-4762-4b92-b4f3-c1aab04837de",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13636,
+    "uuid": "2c48d8a5-ed44-4822-b8c8-96c9a7c31468",
+    "title": "Electrical and Electronic Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13395,
+    "uuid": "2c9259c4-0fa2-41f9-855a-ae4127df440f",
+    "title": "Natural Hazards",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13657,
+    "uuid": "2ca15421-7a36-4ce7-a190-6e8d021778dd",
+    "title": "Communications Technologies",
+    "parent_id": 13652,
+    "parent_uuid": "c55f4887-3ee0-4036-8f48-8fb208d87095",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13656,
+    "uuid": "2dd4cf52-9e18-4013-87b4-c19d22fdf79f",
+    "title": "Medical Biotechnology",
+    "parent_id": 13652,
+    "parent_uuid": "c55f4887-3ee0-4036-8f48-8fb208d87095",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13491,
+    "uuid": "2ea25760-e890-4f7d-945f-8b17402ef9f0",
+    "title": "Public Health and Health Services",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13394,
+    "uuid": "2f62b92d-22e8-4c7e-bc64-9d9d5cd4384d",
+    "title": "Land and Water Management",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13382,
+    "uuid": "30335808-f038-4cd0-a76f-29ead96ef258",
+    "title": "Horticultural Production",
+    "parent_id": 13376,
+    "parent_uuid": "2bdba8f2-5914-4d82-bfe8-c938cccab71f",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13391,
+    "uuid": "314293a1-0dbf-4b7f-867f-cfb66d8ae4f1",
+    "title": "Environmental and Natural Resource Evaluation",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13519,
+    "uuid": "317dd90a-98fb-4b8f-9469-0a8039ca46ec",
+    "title": "Cultural Studies",
+    "parent_id": 13517,
+    "parent_uuid": "9e4442e7-a3ab-490e-a92d-2cbb054144fc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13428,
+    "uuid": "33f9a026-1e9b-462d-8641-2746138d0fdf",
+    "title": "Law",
+    "parent_id": 13427,
+    "parent_uuid": "e67a7b96-216d-420d-8d2c-23ed0ec3c985",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13574,
+    "uuid": "350e74be-0964-45ec-bdaf-8f48725a6505",
+    "title": "Curriculum",
+    "parent_id": 13571,
+    "parent_uuid": "5766da5e-4762-4b92-b4f3-c1aab04837de",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13670,
+    "uuid": "35239554-769d-4a49-a7e7-a3a7e8c53d85",
+    "title": "International Trade",
+    "parent_id": 13667,
+    "parent_uuid": "82d7c00d-d033-4440-a6f1-f64e268fed77",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13502,
+    "uuid": "365de803-3b81-4719-85ea-aa3fe0bda25e",
+    "title": "Banking, Finance and Investment",
+    "parent_id": 13500,
+    "parent_uuid": "0f682048-e983-45a9-ae74-7faeb7031169",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13567,
+    "uuid": "375d4d2c-b431-4fa1-97f3-93dd4134ae56",
+    "title": "Economic Theory",
+    "parent_id": 13566,
+    "parent_uuid": "3a42ce2c-903f-4483-b9c0-6b118cd6b56c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13583,
+    "uuid": "37a2f97c-35ee-4b56-a790-3fb9fb92243c",
+    "title": "Microbiology",
+    "parent_id": 13578,
+    "parent_uuid": "c9376db2-dd6d-47f1-a329-d1691fc5b485",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13556,
+    "uuid": "383c54a3-6e68-4fe0-af66-c3451decfcb1",
+    "title": "Oceanography",
+    "parent_id": 13551,
+    "parent_uuid": "091d4588-f153-48cf-976d-a3f8472008a9",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13649,
+    "uuid": "39dbfd53-39f5-4f79-b6e4-9d768ddcfab8",
+    "title": "Curriculum and Pedagogy",
+    "parent_id": 13647,
+    "parent_uuid": "f1dde23e-da6f-4134-9bcb-e4b70ef74c27",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13626,
+    "uuid": "3df69a03-0846-433c-a9f4-51b41be34cd0",
+    "title": "Energy Storage, Distribution and Supply",
+    "parent_id": 13620,
+    "parent_uuid": "6e5bdc69-96db-41e4-ac0b-18812b46c49c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13598,
+    "uuid": "3e0be2c4-53dd-4dc2-bcff-f659a166d17b",
+    "title": "Medicinal and Biomolecular Chemistry",
+    "parent_id": 13594,
+    "parent_uuid": "f257102c-f3f9-4c4c-9f67-6e977c683ae1",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13546,
+    "uuid": "3ea0d302-b5fa-4e05-a7bc-b5f3d23eb9e7",
+    "title": "Computer Software and Services",
+    "parent_id": 13544,
+    "parent_uuid": "6c462056-0790-4986-8c05-c01bece615cb",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13526,
+    "uuid": "3eb9f599-aa29-4de2-a96a-31091e95ea95",
+    "title": "Dairy Products",
+    "parent_id": 13524,
+    "parent_uuid": "49bb2c48-9696-4813-ab2c-8985fb8ec1db",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13658,
+    "uuid": "3f28b62c-71fc-4700-a80d-0af753d5d006",
+    "title": "Computer Hardware",
+    "parent_id": 13652,
+    "parent_uuid": "c55f4887-3ee0-4036-8f48-8fb208d87095",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13366,
+    "uuid": "401ebe0b-6c39-466f-b8f0-a8d83baeea43",
+    "title": "Engineering Design",
+    "parent_id": 13362,
+    "parent_uuid": "6322470c-bed3-40a7-890a-f6fbb96eecb8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13650,
+    "uuid": "4020b0a9-02c2-4227-ab23-9b4f6447edee",
+    "title": "Specialist Studies in Education",
+    "parent_id": 13647,
+    "parent_uuid": "f1dde23e-da6f-4134-9bcb-e4b70ef74c27",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13458,
+    "uuid": "418d6c5b-ba33-4fb4-ac80-0bdef5bbe207",
+    "title": "Financial Services",
+    "parent_id": 13457,
+    "parent_uuid": "f661a6d5-73c0-4448-8cc0-50074eb5f198",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13615,
+    "uuid": "422035f0-a80a-4415-a2a8-9e4102791dea",
+    "title": "Data Format",
+    "parent_id": 13611,
+    "parent_uuid": "c78e1734-8680-4846-8bc9-92ba6e9f77ac",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13494,
+    "uuid": "4526e4e5-4643-48a0-9c89-58af42a128af",
+    "title": "Arts and Leisure",
+    "parent_id": 13493,
+    "parent_uuid": "71c98269-4815-434e-aa33-c02c98ec11fa",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13490,
+    "uuid": "45320457-28c0-40f3-b02c-16c03402214d",
+    "title": "Medical Physiology",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13528,
+    "uuid": "45571b6f-f43d-46d7-a694-9e1390bf1df7",
+    "title": "Leather Products, Fibre Processing and Textiles",
+    "parent_id": 13524,
+    "parent_uuid": "49bb2c48-9696-4813-ab2c-8985fb8ec1db",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13640,
+    "uuid": "45c4c44d-1c23-44de-8c1f-4a69fa90ac19",
+    "title": "Manufacturing Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13392,
+    "uuid": "48336f14-d295-4889-aaf8-0517115570a1",
+    "title": "Environmental Policy, Legislation and Standards",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13456,
+    "uuid": "4c051578-0658-4c1b-ae49-1f85239c8548",
+    "title": "Other Psychology and Cognitive Sciences",
+    "parent_id": 13453,
+    "parent_uuid": "a88c1f76-b459-47b7-89b2-adab4e1612c6",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13423,
+    "uuid": "4d38d7d3-a6b2-4909-aeee-e8699f531338",
+    "title": "Primary Mining and Extraction of Mineral Resources",
+    "parent_id": 13421,
+    "parent_uuid": "73da99c3-309d-4c9a-9cb3-61f58e48de21",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13365,
+    "uuid": "4d3ffaea-21cb-489a-87bc-e633a1f0778e",
+    "title": "Design Practice and Management",
+    "parent_id": 13362,
+    "parent_uuid": "6322470c-bed3-40a7-890a-f6fbb96eecb8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13497,
+    "uuid": "4dbbaf31-9203-43ee-aef9-632a02459f38",
+    "title": "Religion and Ethics",
+    "parent_id": 13493,
+    "parent_uuid": "71c98269-4815-434e-aa33-c02c98ec11fa",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13525,
+    "uuid": "4e5b6cfe-7304-4388-a900-d0cd323a70b3",
+    "title": "Processed Food Products and Beverages (excl. Dairy Products)",
+    "parent_id": 13524,
+    "parent_uuid": "49bb2c48-9696-4813-ab2c-8985fb8ec1db",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13413,
+    "uuid": "4e733f31-9eea-4c3c-892d-bcd91bba7eef",
+    "title": "Soil Sciences",
+    "parent_id": 13410,
+    "parent_uuid": "d82e7f87-5ba4-4acf-9116-deb559908f63",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13381,
+    "uuid": "4f2d16ee-4777-4ee8-9191-462e4d2c0574",
+    "title": "Forestry Sciences",
+    "parent_id": 13376,
+    "parent_uuid": "2bdba8f2-5914-4d82-bfe8-c938cccab71f",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13364,
+    "uuid": "4f6c9408-428b-4809-9617-e8a53d8fe780",
+    "title": "Building",
+    "parent_id": 13362,
+    "parent_uuid": "6322470c-bed3-40a7-890a-f6fbb96eecb8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13585,
+    "uuid": "50aa2f38-f798-4f24-8144-0cf2e6230f6f",
+    "title": "Plant Biology",
+    "parent_id": 13578,
+    "parent_uuid": "c9376db2-dd6d-47f1-a329-d1691fc5b485",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13601,
+    "uuid": "50af64e1-8fb9-4221-aa53-58efcf300799",
+    "title": "Theoretical and Computational Chemistry",
+    "parent_id": 13594,
+    "parent_uuid": "f257102c-f3f9-4c4c-9f67-6e977c683ae1",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13654,
+    "uuid": "51b096cf-4bb6-4db5-975c-8f050fd711ea",
+    "title": "Environmental Biotechnology",
+    "parent_id": 13652,
+    "parent_uuid": "c55f4887-3ee0-4036-8f48-8fb208d87095",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13580,
+    "uuid": "541bec48-b641-4d83-a53d-31a86a21c4ae",
+    "title": "Ecology",
+    "parent_id": 13578,
+    "parent_uuid": "c9376db2-dd6d-47f1-a329-d1691fc5b485",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13451,
+    "uuid": "58005589-cf56-4a2d-bb2b-b7eba637cbb3",
+    "title": "Historical Studies",
+    "parent_id": 13448,
+    "parent_uuid": "3dc1e6b4-63bb-4142-87fd-d47262d47992",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13505,
+    "uuid": "58c768d7-82b5-441f-b873-af487b416494",
+    "title": "Marketing",
+    "parent_id": 13500,
+    "parent_uuid": "0f682048-e983-45a9-ae74-7faeb7031169",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13507,
+    "uuid": "58d6ae4c-c121-4d34-87d1-7fa53218d850",
+    "title": "Transportation and Freight Services",
+    "parent_id": 13500,
+    "parent_uuid": "0f682048-e983-45a9-ae74-7faeb7031169",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13422,
+    "uuid": "59597a45-38b5-4789-8321-908b144c10a6",
+    "title": "Mineral Exploration",
+    "parent_id": 13421,
+    "parent_uuid": "73da99c3-309d-4c9a-9cb3-61f58e48de21",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13663,
+    "uuid": "5a57f066-76fb-4f56-afd4-f3ac6c084f09",
+    "title": "Water Transport",
+    "parent_id": 13661,
+    "parent_uuid": "0c90ba40-1efb-4691-9e8d-6990e66936b2",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13668,
+    "uuid": "5b49e7c1-d996-492a-a56e-b640d8238744",
+    "title": "Macroeconomics",
+    "parent_id": 13667,
+    "parent_uuid": "82d7c00d-d033-4440-a6f1-f64e268fed77",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13380,
+    "uuid": "5da6398b-05d2-4513-ad11-2ee6c692a242",
+    "title": "Fisheries Sciences",
+    "parent_id": 13376,
+    "parent_uuid": "2bdba8f2-5914-4d82-bfe8-c938cccab71f",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13549,
+    "uuid": "5eb603c4-7f33-48d5-8d05-fbad7b5ae21a",
+    "title": "Environmentally Sustainable Information and Communication Services",
+    "parent_id": 13544,
+    "parent_uuid": "6c462056-0790-4986-8c05-c01bece615cb",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13629,
+    "uuid": "5f379816-428e-46e7-a442-dd68251ee74f",
+    "title": "Other Energy",
+    "parent_id": 13620,
+    "parent_uuid": "6e5bdc69-96db-41e4-ac0b-18812b46c49c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13607,
+    "uuid": "602eafbc-c2af-41d2-b452-a5fc519657f0",
+    "title": "Condensed Matter Physics",
+    "parent_id": 13603,
+    "parent_uuid": "3208b81e-0142-4489-a094-9e7b92c61e6e",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13554,
+    "uuid": "6140e788-f69f-4596-945f-a56d9c95a1ec",
+    "title": "Geology",
+    "parent_id": 13551,
+    "parent_uuid": "091d4588-f153-48cf-976d-a3f8472008a9",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13368,
+    "uuid": "63fad2e9-3fbd-4667-ba50-d9292e52308c",
+    "title": "Other Built Environment and Design",
+    "parent_id": 13362,
+    "parent_uuid": "6322470c-bed3-40a7-890a-f6fbb96eecb8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13563,
+    "uuid": "64e2a5a1-16a4-48fb-9dc2-f3d54f557ed0",
+    "title": "Performing Arts and Creative Writing",
+    "parent_id": 13559,
+    "parent_uuid": "db8f9168-1f8a-4a82-8bad-e73003101ff7",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13538,
+    "uuid": "659d8a68-6be5-4aa8-9894-e25066b860f6",
+    "title": "Machinery and Equipment",
+    "parent_id": 13524,
+    "parent_uuid": "49bb2c48-9696-4813-ab2c-8985fb8ec1db",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13481,
+    "uuid": "65fed4ff-7922-403e-aaa4-d114911d013b",
+    "title": "Immunology",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13547,
+    "uuid": "66e5d845-04a9-4dfb-9769-4890bdc4ffaa",
+    "title": "Information Services",
+    "parent_id": 13544,
+    "parent_uuid": "6c462056-0790-4986-8c05-c01bece615cb",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13439,
+    "uuid": "6a51740a-c824-42cd-81b0-9c0bad0042a1",
+    "title": "Expanding Knowledge",
+    "parent_id": 13438,
+    "parent_uuid": "0577b7b8-4e55-456a-b8a9-b3a37ad7c72a",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13659,
+    "uuid": "6c44692c-a178-4558-867a-4f01400d00d2",
+    "title": "Nanotechnology",
+    "parent_id": 13652,
+    "parent_uuid": "c55f4887-3ee0-4036-8f48-8fb208d87095",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13646,
+    "uuid": "6d112565-f00e-4eec-bfe4-8c60f1117ae5",
+    "title": "Other Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13473,
+    "uuid": "6db2e6c4-90c2-4da8-b6cc-52293ef56410",
+    "title": "Other Studies in Human Society",
+    "parent_id": 13464,
+    "parent_uuid": "d8a59207-d819-4697-adca-d5c4c3fafce6",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13446,
+    "uuid": "71f5f59a-b158-44ec-aac3-8c383dc1aad1",
+    "title": "Environmentally Sustainable Animal Production",
+    "parent_id": 13440,
+    "parent_uuid": "45a8c849-ab59-4302-af79-09b8c0677df8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13414,
+    "uuid": "72a930de-a8bb-46a6-b5f8-3ba541867441",
+    "title": "Other Environmental Sciences",
+    "parent_id": 13410,
+    "parent_uuid": "d82e7f87-5ba4-4acf-9116-deb559908f63",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13372,
+    "uuid": "735f7d6f-1734-452d-9cec-9e96bd60ddc4",
+    "title": "International Relations",
+    "parent_id": 13369,
+    "parent_uuid": "fb9b04f5-94ce-4712-8af1-dbf69668dfff",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13412,
+    "uuid": "7397b01a-046d-488d-850e-4f26581f17ec",
+    "title": "Environmental Science and Management",
+    "parent_id": 13410,
+    "parent_uuid": "d82e7f87-5ba4-4acf-9116-deb559908f63",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13489,
+    "uuid": "74cf0233-3de6-4c4b-a761-52336bb85d4d",
+    "title": "Pharmacology and Pharmaceutical Sciences",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13672,
+    "uuid": "75b7dae9-482d-4719-8c8c-4201315a1a1b",
+    "title": "Measurement Standards and Calibration Services",
+    "parent_id": 13667,
+    "parent_uuid": "82d7c00d-d033-4440-a6f1-f64e268fed77",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13621,
+    "uuid": "76e8cea1-e4cd-4a19-abeb-b6e7710cdda0",
+    "title": "Energy Exploration",
+    "parent_id": 13620,
+    "parent_uuid": "6e5bdc69-96db-41e4-ac0b-18812b46c49c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13455,
+    "uuid": "76f2e6ac-f2e6-4fc0-9d27-63801dd20462",
+    "title": "Cognitive Sciences",
+    "parent_id": 13453,
+    "parent_uuid": "a88c1f76-b459-47b7-89b2-adab4e1612c6",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13591,
+    "uuid": "76f9759d-c7d8-4aac-949a-622b0104d89f",
+    "title": "Philosophy",
+    "parent_id": 13588,
+    "parent_uuid": "61ec1b24-19dd-4e7c-957b-85a4a64ad6f9",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13367,
+    "uuid": "77170dc5-8b86-4978-80f9-275084f81ef6",
+    "title": "Urban and Regional Planning",
+    "parent_id": 13362,
+    "parent_uuid": "6322470c-bed3-40a7-890a-f6fbb96eecb8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13477,
+    "uuid": "7977513c-2696-4d68-a434-47a32b085cfa",
+    "title": "Clinical Sciences",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13503,
+    "uuid": "7b5382c2-d6f0-475d-aa6c-a044d808c686",
+    "title": "Business and Management",
+    "parent_id": 13500,
+    "parent_uuid": "0f682048-e983-45a9-ae74-7faeb7031169",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13454,
+    "uuid": "7bf4c506-d84b-4e04-9245-f96b2b1d0649",
+    "title": "Psychology",
+    "parent_id": 13453,
+    "parent_uuid": "a88c1f76-b459-47b7-89b2-adab4e1612c6",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13572,
+    "uuid": "7d0b9848-a9c2-4c3a-a1ca-07d7bbfbd0e8",
+    "title": "Learner and Learning",
+    "parent_id": 13571,
+    "parent_uuid": "5766da5e-4762-4b92-b4f3-c1aab04837de",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13627,
+    "uuid": "7dd88ef0-289a-4587-a613-087fba3f8be6",
+    "title": "Energy Conservation and Efficiency",
+    "parent_id": 13620,
+    "parent_uuid": "6e5bdc69-96db-41e4-ac0b-18812b46c49c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13442,
+    "uuid": "80749d52-a750-44cf-881c-ac74d2a85572",
+    "title": "Fisheries - Wild Caught",
+    "parent_id": 13440,
+    "parent_uuid": "45a8c849-ab59-4302-af79-09b8c0677df8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13596,
+    "uuid": "80ead8bf-1ce3-40e9-8cf0-f887e9d7a14c",
+    "title": "Inorganic Chemistry",
+    "parent_id": 13594,
+    "parent_uuid": "f257102c-f3f9-4c4c-9f67-6e977c683ae1",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13539,
+    "uuid": "8206eece-8d29-48e6-844d-2e8827fdf763",
+    "title": "Instrumentation",
+    "parent_id": 13524,
+    "parent_uuid": "49bb2c48-9696-4813-ab2c-8985fb8ec1db",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13606,
+    "uuid": "83cf20a4-ce13-40a3-9803-12d27ed81a03",
+    "title": "Classical Physics",
+    "parent_id": 13603,
+    "parent_uuid": "3208b81e-0142-4489-a094-9e7b92c61e6e",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13631,
+    "uuid": "8408f745-4d9e-426b-80c6-f7b45c3a038d",
+    "title": "Aerospace Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13642,
+    "uuid": "848980cc-d960-4cd0-8bf8-387d731b21d5",
+    "title": "Materials Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13508,
+    "uuid": "869fffda-bf5b-4a76-ae2e-c66d2f58ffa1",
+    "title": "Other Commerce, Management, Tourism and Services",
+    "parent_id": 13500,
+    "parent_uuid": "0f682048-e983-45a9-ae74-7faeb7031169",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13417,
+    "uuid": "87311ae0-66a7-4aeb-9dd8-5f43a73f1d00",
+    "title": "Health and Support Services",
+    "parent_id": 13415,
+    "parent_uuid": "69b9b98e-319b-487b-845b-bfc77d8fa43a",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13433,
+    "uuid": "881d8923-aaf1-4f00-a626-c132dfceb066",
+    "title": "Applied Mathematics",
+    "parent_id": 13431,
+    "parent_uuid": "849969c4-c742-4e5b-9a26-3cf9be87ef2c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13537,
+    "uuid": "884074b4-a327-4205-a713-3ebc6773e2e9",
+    "title": "Transport Equipment",
+    "parent_id": 13524,
+    "parent_uuid": "49bb2c48-9696-4813-ab2c-8985fb8ec1db",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13576,
+    "uuid": "88f61721-6553-4155-a650-d1f5006b5aca",
+    "title": "Education and Training Systems",
+    "parent_id": 13571,
+    "parent_uuid": "5766da5e-4762-4b92-b4f3-c1aab04837de",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13577,
+    "uuid": "89044575-5913-4371-9649-70c908e5ba9a",
+    "title": "Other Education and Training",
+    "parent_id": 13571,
+    "parent_uuid": "5766da5e-4762-4b92-b4f3-c1aab04837de",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13545,
+    "uuid": "894eba40-d9cf-4709-9cf7-7c97290ec866",
+    "title": "Communication Networks and Services",
+    "parent_id": 13544,
+    "parent_uuid": "6c462056-0790-4986-8c05-c01bece615cb",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13361,
+    "uuid": "89b7b91c-3f61-4b63-bd80-ea72856a7f17",
+    "title": "Defence",
+    "parent_id": 13360,
+    "parent_uuid": "e7bc7015-c289-41be-992a-b3a182451550",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13669,
+    "uuid": "8be64141-8372-4147-8f29-11ffda404e2a",
+    "title": "Microeconomics",
+    "parent_id": 13667,
+    "parent_uuid": "82d7c00d-d033-4440-a6f1-f64e268fed77",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13619,
+    "uuid": "9333e341-8fb8-4fcd-a86d-1b05b958eb10",
+    "title": "Other Information and Computing Sciences",
+    "parent_id": 13611,
+    "parent_uuid": "c78e1734-8680-4846-8bc9-92ba6e9f77ac",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13673,
+    "uuid": "93a5bcf8-d201-4a1f-9fb3-e47c696cb034",
+    "title": "Other Economic Framework",
+    "parent_id": 13667,
+    "parent_uuid": "82d7c00d-d033-4440-a6f1-f64e268fed77",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13466,
+    "uuid": "94b64c4f-a546-4a45-a508-943f8a2f9998",
+    "title": "Criminology",
+    "parent_id": 13464,
+    "parent_uuid": "d8a59207-d819-4697-adca-d5c4c3fafce6",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13383,
+    "uuid": "95141c83-29fa-49cc-9ca1-0f5093ff2636",
+    "title": "Veterinary Sciences",
+    "parent_id": 13376,
+    "parent_uuid": "2bdba8f2-5914-4d82-bfe8-c938cccab71f",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13472,
+    "uuid": "9603e9e3-4d09-47f6-b2a9-eff826c4efb4",
+    "title": "Sociology",
+    "parent_id": 13464,
+    "parent_uuid": "d8a59207-d819-4697-adca-d5c4c3fafce6",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13550,
+    "uuid": "9655bfd1-17e5-4f6d-aea0-a85d6090e9a2",
+    "title": "Other Information and Communication Services",
+    "parent_id": 13544,
+    "parent_uuid": "6c462056-0790-4986-8c05-c01bece615cb",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13512,
+    "uuid": "96a590d9-00b6-4a11-ad20-cb075f5c112a",
+    "title": "Construction Materials Performance and Processes",
+    "parent_id": 13509,
+    "parent_uuid": "d8187a7c-be9c-45eb-84e9-5c6c3cf7b8c8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13535,
+    "uuid": "973bc9fd-84e0-4e12-906a-57f893334de3",
+    "title": "Basic Metal Products (incl. Smelting, Rolling, Drawing and Extruding)",
+    "parent_id": 13524,
+    "parent_uuid": "49bb2c48-9696-4813-ab2c-8985fb8ec1db",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13492,
+    "uuid": "97ff989a-663a-4772-b3c6-73b53cc32dfc",
+    "title": "Other Medical and Health Sciences",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13590,
+    "uuid": "9835f4d7-3a37-4c16-bcfa-6ccbef8e04df",
+    "title": "History and Philosophy of Specific Fields",
+    "parent_id": 13588,
+    "parent_uuid": "61ec1b24-19dd-4e7c-957b-85a4a64ad6f9",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13520,
+    "uuid": "9a24e420-88d5-4451-af51-30b7e1077110",
+    "title": "Language Studies",
+    "parent_id": 13517,
+    "parent_uuid": "9e4442e7-a3ab-490e-a92d-2cbb054144fc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13449,
+    "uuid": "9a271388-d0fe-4419-aa4f-ecb2798f87a6",
+    "title": "Archaeology",
+    "parent_id": 13448,
+    "parent_uuid": "3dc1e6b4-63bb-4142-87fd-d47262d47992",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13419,
+    "uuid": "9d73136b-68d9-4429-9408-cece4512c85a",
+    "title": "Specific Population Health",
+    "parent_id": 13415,
+    "parent_uuid": "69b9b98e-319b-487b-845b-bfc77d8fa43a",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13595,
+    "uuid": "9d9e95e7-7f00-42ff-b229-5350251cecfa",
+    "title": "Analytical Chemistry",
+    "parent_id": 13594,
+    "parent_uuid": "f257102c-f3f9-4c4c-9f67-6e977c683ae1",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13592,
+    "uuid": "9f2acad5-c593-4229-bf44-a86280af131c",
+    "title": "Religion and Religious Studies",
+    "parent_id": 13588,
+    "parent_uuid": "61ec1b24-19dd-4e7c-957b-85a4a64ad6f9",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13569,
+    "uuid": "a0264b00-4233-4d56-981d-c8e81a155cbe",
+    "title": "Econometrics",
+    "parent_id": 13566,
+    "parent_uuid": "3a42ce2c-903f-4483-b9c0-6b118cd6b56c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13447,
+    "uuid": "a10052cf-13c4-49f3-be20-c8621b3537bf",
+    "title": "Other Animal Production and Animal Primary Products",
+    "parent_id": 13440,
+    "parent_uuid": "45a8c849-ab59-4302-af79-09b8c0677df8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13400,
+    "uuid": "a1346cb1-7759-4127-adf7-d9c6b2ec63e8",
+    "title": "Other Environment",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13582,
+    "uuid": "a1d6c2e6-e28c-46ba-bd5d-021ca5c0d9a2",
+    "title": "Genetics",
+    "parent_id": 13578,
+    "parent_uuid": "c9376db2-dd6d-47f1-a329-d1691fc5b485",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13404,
+    "uuid": "a3f8404c-b8e0-467a-8672-f77d975d1d6f",
+    "title": "Industrial Crops",
+    "parent_id": 13401,
+    "parent_uuid": "4d6c5f8b-5ebc-45e6-895e-ab29a802d30b",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13386,
+    "uuid": "a408fbdd-64b1-4144-847c-cc57ffc8a27b",
+    "title": "Air Quality",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13390,
+    "uuid": "a42cf4e3-ec20-452a-a51b-b4f84313def9",
+    "title": "Ecosystem Assessment and Management",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13487,
+    "uuid": "a4509bee-6c1b-4468-b6ef-abc057632387",
+    "title": "Ophthalmology and Optometry",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13432,
+    "uuid": "a7b9b5c1-665c-4ad8-ba5c-4ab4717de855",
+    "title": "Pure Mathematics",
+    "parent_id": 13431,
+    "parent_uuid": "849969c4-c742-4e5b-9a26-3cf9be87ef2c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13568,
+    "uuid": "a8a14a45-3a45-402c-89b9-39de5a34e674",
+    "title": "Applied Economics",
+    "parent_id": 13566,
+    "parent_uuid": "3a42ce2c-903f-4483-b9c0-6b118cd6b56c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13420,
+    "uuid": "a95013c0-bea2-4004-b39e-c8efa3f01711",
+    "title": "Other Health",
+    "parent_id": 13415,
+    "parent_uuid": "69b9b98e-319b-487b-845b-bfc77d8fa43a",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13651,
+    "uuid": "a9efd780-a60a-4ded-ae29-e92d8891f2f3",
+    "title": "Other Education",
+    "parent_id": 13647,
+    "parent_uuid": "f1dde23e-da6f-4134-9bcb-e4b70ef74c27",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13555,
+    "uuid": "aa4f27f4-60bb-4a33-9833-d2585b01f513",
+    "title": "Geophysics",
+    "parent_id": 13551,
+    "parent_uuid": "091d4588-f153-48cf-976d-a3f8472008a9",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13610,
+    "uuid": "acaf008a-6c74-4477-9a0d-8fb7c70bb704",
+    "title": "Other Physical Sciences",
+    "parent_id": 13603,
+    "parent_uuid": "3208b81e-0142-4489-a094-9e7b92c61e6e",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13618,
+    "uuid": "ad7b767d-31ba-45b3-9c33-732c0a9818be",
+    "title": "Library and Information Studies",
+    "parent_id": 13611,
+    "parent_uuid": "c78e1734-8680-4846-8bc9-92ba6e9f77ac",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13511,
+    "uuid": "adcf40f6-0f2f-4c46-8606-688ea8cac891",
+    "title": "Construction Design",
+    "parent_id": 13509,
+    "parent_uuid": "d8187a7c-be9c-45eb-84e9-5c6c3cf7b8c8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13378,
+    "uuid": "ae081efd-a4ef-40c1-a779-280e9465068b",
+    "title": "Animal Production",
+    "parent_id": 13376,
+    "parent_uuid": "2bdba8f2-5914-4d82-bfe8-c938cccab71f",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13614,
+    "uuid": "ae4fe0e0-9013-4f36-9fb9-fe369356a47a",
+    "title": "Computer Software",
+    "parent_id": 13611,
+    "parent_uuid": "c78e1734-8680-4846-8bc9-92ba6e9f77ac",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13430,
+    "uuid": "aee343d7-523e-4696-b8cc-b623ac2e4b0a",
+    "title": "Other Law and Legal Studies",
+    "parent_id": 13427,
+    "parent_uuid": "e67a7b96-216d-420d-8d2c-23ed0ec3c985",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13665,
+    "uuid": "aee911db-d780-48c4-acb2-2d804a25a9ee",
+    "title": "Environmentally Sustainable Transport",
+    "parent_id": 13661,
+    "parent_uuid": "0c90ba40-1efb-4691-9e8d-6990e66936b2",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13624,
+    "uuid": "af5a32ba-64a6-4479-8506-119d545d6935",
+    "title": "Energy Transformation",
+    "parent_id": 13620,
+    "parent_uuid": "6e5bdc69-96db-41e4-ac0b-18812b46c49c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13616,
+    "uuid": "af6bdce6-47fd-4d08-87a9-46cd967017d2",
+    "title": "Distributed Computing",
+    "parent_id": 13611,
+    "parent_uuid": "c78e1734-8680-4846-8bc9-92ba6e9f77ac",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13581,
+    "uuid": "af99ca64-fe77-4ace-957f-5fd200e2748b",
+    "title": "Evolutionary Biology",
+    "parent_id": 13578,
+    "parent_uuid": "c9376db2-dd6d-47f1-a329-d1691fc5b485",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13377,
+    "uuid": "b022b7b6-6771-44c8-a9c4-f6e4a8e1fa88",
+    "title": "Agriculture, Land and Farm Management",
+    "parent_id": 13376,
+    "parent_uuid": "2bdba8f2-5914-4d82-bfe8-c938cccab71f",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13633,
+    "uuid": "b03ee031-f42d-4cbd-890b-5baa605f4c3f",
+    "title": "Biomedical Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13408,
+    "uuid": "b12c1c9b-062f-498c-bc65-5bbdc981aaec",
+    "title": "Environmentally Sustainable Plant Production",
+    "parent_id": 13401,
+    "parent_uuid": "4d6c5f8b-5ebc-45e6-895e-ab29a802d30b",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13617,
+    "uuid": "b16dcd69-1f6d-475a-968c-659d2cc7dba4",
+    "title": "Information Systems",
+    "parent_id": 13611,
+    "parent_uuid": "c78e1734-8680-4846-8bc9-92ba6e9f77ac",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13543,
+    "uuid": "b4049681-8d60-49d6-b4e1-630ddcacdbcf",
+    "title": "Other Manufacturing",
+    "parent_id": 13524,
+    "parent_uuid": "49bb2c48-9696-4813-ab2c-8985fb8ec1db",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13396,
+    "uuid": "b5720abb-36a6-4df1-84d2-78de0ac4064f",
+    "title": "Physical and Chemical Conditions of Water",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13471,
+    "uuid": "b7cf7e3a-5a02-43df-9aac-f47e6e5416d4",
+    "title": "Social Work",
+    "parent_id": 13464,
+    "parent_uuid": "d8a59207-d819-4697-adca-d5c4c3fafce6",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13579,
+    "uuid": "b7e28860-1ecd-42ef-85fd-b050784db7b8",
+    "title": "Biochemistry and Cell Biology",
+    "parent_id": 13578,
+    "parent_uuid": "c9376db2-dd6d-47f1-a329-d1691fc5b485",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13460,
+    "uuid": "b903c6d6-db3f-48c6-bd9a-f5b771dd9271",
+    "title": "Tourism",
+    "parent_id": 13457,
+    "parent_uuid": "f661a6d5-73c0-4448-8cc0-50074eb5f198",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13589,
+    "uuid": "b98ace70-5f42-480b-abc6-58275841e952",
+    "title": "Applied Ethics",
+    "parent_id": 13588,
+    "parent_uuid": "61ec1b24-19dd-4e7c-957b-85a4a64ad6f9",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13393,
+    "uuid": "b9a2dca3-0fd3-4979-aaaa-f2634aa2f116",
+    "title": "Flora, Fauna and Biodiversity",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13363,
+    "uuid": "b9c6466c-eea0-49b4-aa28-902f160a34c5",
+    "title": "Architecture",
+    "parent_id": 13362,
+    "parent_uuid": "6322470c-bed3-40a7-890a-f6fbb96eecb8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13608,
+    "uuid": "bb4565d6-63f0-4271-86e9-656fb32a44d5",
+    "title": "Optical Physics",
+    "parent_id": 13603,
+    "parent_uuid": "3208b81e-0142-4489-a094-9e7b92c61e6e",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13496,
+    "uuid": "bcaa3a24-b8ce-4136-b8e2-58626c045b6b",
+    "title": "Heritage",
+    "parent_id": 13493,
+    "parent_uuid": "71c98269-4815-434e-aa33-c02c98ec11fa",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13436,
+    "uuid": "bd034359-498a-4ac1-8ba7-52bc57443127",
+    "title": "Mathematical Physics",
+    "parent_id": 13431,
+    "parent_uuid": "849969c4-c742-4e5b-9a26-3cf9be87ef2c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13557,
+    "uuid": "bf809076-155e-4fc9-ad08-e21b55fc20bc",
+    "title": "Physical Geography and Environmental Geoscience",
+    "parent_id": 13551,
+    "parent_uuid": "091d4588-f153-48cf-976d-a3f8472008a9",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13437,
+    "uuid": "bfad1f86-89d3-43d6-840c-36215b0c52fe",
+    "title": "Other Mathematical Sciences",
+    "parent_id": 13431,
+    "parent_uuid": "849969c4-c742-4e5b-9a26-3cf9be87ef2c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13409,
+    "uuid": "c0656dd2-2595-433f-8c29-f199d5826bf5",
+    "title": "Other Plant Production and Plant Primary Products",
+    "parent_id": 13401,
+    "parent_uuid": "4d6c5f8b-5ebc-45e6-895e-ab29a802d30b",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13584,
+    "uuid": "c116e1af-9728-427e-93aa-c17d1303c638",
+    "title": "Physiology",
+    "parent_id": 13578,
+    "parent_uuid": "c9376db2-dd6d-47f1-a329-d1691fc5b485",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13653,
+    "uuid": "c2bc8e98-0942-44a5-9a0b-77f9241dd0d8",
+    "title": "Agricultural Biotechnology",
+    "parent_id": 13652,
+    "parent_uuid": "c55f4887-3ee0-4036-8f48-8fb208d87095",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13501,
+    "uuid": "c3c8c9c1-cb1a-45ab-ad05-805e6e7313e8",
+    "title": "Accounting, Auditing and Accountability",
+    "parent_id": 13500,
+    "parent_uuid": "0f682048-e983-45a9-ae74-7faeb7031169",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13515,
+    "uuid": "c47edea6-55b5-468f-b7b2-0ec2f946b92b",
+    "title": "Environmentally Sustainable Construction",
+    "parent_id": 13509,
+    "parent_uuid": "d8187a7c-be9c-45eb-84e9-5c6c3cf7b8c8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13418,
+    "uuid": "c4a7d04b-2d6b-4b6c-9f0c-9e692cf292a1",
+    "title": "Public Health (excl. Specific Population Health)",
+    "parent_id": 13415,
+    "parent_uuid": "69b9b98e-319b-487b-845b-bfc77d8fa43a",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13389,
+    "uuid": "c516b7e2-9473-4e0c-9a0b-15f66ad87fa3",
+    "title": "Control of Pests, Diseases and Exotic Species",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13641,
+    "uuid": "c5c97adc-a29c-46c4-85a6-35c7b4dcfd12",
+    "title": "Maritime Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13540,
+    "uuid": "c649900a-630a-4867-afe8-d7bad28c9a93",
+    "title": "Computer Hardware and Electronic Equipment",
+    "parent_id": 13524,
+    "parent_uuid": "49bb2c48-9696-4813-ab2c-8985fb8ec1db",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13570,
+    "uuid": "c69c2d72-d78f-40c0-bb82-173c00473f24",
+    "title": "Other Economics",
+    "parent_id": 13566,
+    "parent_uuid": "3a42ce2c-903f-4483-b9c0-6b118cd6b56c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13426,
+    "uuid": "c6d8c886-8a00-4979-937e-7e82c27bc4cf",
+    "title": "Other Mineral Resources (excl. Energy Resources)",
+    "parent_id": 13421,
+    "parent_uuid": "73da99c3-309d-4c9a-9cb3-61f58e48de21",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13645,
+    "uuid": "c9f8932d-54e6-4b89-917b-d7b341eb6784",
+    "title": "Interdisciplinary Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13662,
+    "uuid": "caae787e-ff0c-41a8-b36d-42f0a1be7126",
+    "title": "Ground Transport",
+    "parent_id": 13661,
+    "parent_uuid": "0c90ba40-1efb-4691-9e8d-6990e66936b2",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13655,
+    "uuid": "cab3b370-8bf5-48e1-aa55-19d195e19daf",
+    "title": "Industrial Biotechnology",
+    "parent_id": 13652,
+    "parent_uuid": "c55f4887-3ee0-4036-8f48-8fb208d87095",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13504,
+    "uuid": "cb0747cb-6e92-431f-a841-665128f9c4d4",
+    "title": "Commercial Services",
+    "parent_id": 13500,
+    "parent_uuid": "0f682048-e983-45a9-ae74-7faeb7031169",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13425,
+    "uuid": "d00fe426-47a8-45a4-b3b7-47680fe15566",
+    "title": "Environmentally Sustainable Mineral Resource Activities",
+    "parent_id": 13421,
+    "parent_uuid": "73da99c3-309d-4c9a-9cb3-61f58e48de21",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13402,
+    "uuid": "d2b28740-725c-48f6-8d91-4c4b9933d9c1",
+    "title": "Forestry",
+    "parent_id": 13401,
+    "parent_uuid": "4d6c5f8b-5ebc-45e6-895e-ab29a802d30b",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13604,
+    "uuid": "d3a67ff9-b680-4271-bf27-cd509dfcdde8",
+    "title": "Astronomical and Space Sciences",
+    "parent_id": 13603,
+    "parent_uuid": "3208b81e-0142-4489-a094-9e7b92c61e6e",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13397,
+    "uuid": "d46f0a0a-34e9-4e04-843c-60a5dc3aa740",
+    "title": "Rehabilitation of Degraded Environments",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13637,
+    "uuid": "d55516e5-9d1e-4491-a27d-7c20917b5d6f",
+    "title": "Environmental Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13485,
+    "uuid": "d600d3a0-333b-48b2-97eb-d873c748a863",
+    "title": "Nutrition and Dietetics",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13465,
+    "uuid": "d770fc78-853c-4bd8-9fa4-92fce2d664dd",
+    "title": "Anthropology",
+    "parent_id": 13464,
+    "parent_uuid": "d8a59207-d819-4697-adca-d5c4c3fafce6",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13384,
+    "uuid": "d8aa4aba-53dc-4869-86bc-8f4bd56b9ac5",
+    "title": "Other Agricultural and Veterinary Sciences",
+    "parent_id": 13376,
+    "parent_uuid": "2bdba8f2-5914-4d82-bfe8-c938cccab71f",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13459,
+    "uuid": "d8bc9d0a-1976-4244-bfbf-077c41f16a8c",
+    "title": "Property, Business Support Services and Trade",
+    "parent_id": 13457,
+    "parent_uuid": "f661a6d5-73c0-4448-8cc0-50074eb5f198",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13609,
+    "uuid": "d8d9bd3b-765b-463f-97d0-6346ac88a66f",
+    "title": "Quantum Physics",
+    "parent_id": 13603,
+    "parent_uuid": "3208b81e-0142-4489-a094-9e7b92c61e6e",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13480,
+    "uuid": "d90b3b79-5884-42f4-92b2-c1f2a3f77f91",
+    "title": "Human Movement and Sports Science",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13374,
+    "uuid": "da573099-c85e-46f5-b8c0-c6b89164e362",
+    "title": "Work and Institutional Development",
+    "parent_id": 13369,
+    "parent_uuid": "fb9b04f5-94ce-4712-8af1-dbf69668dfff",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13625,
+    "uuid": "daa7afeb-0ad8-4d0d-940e-9f3d457c71fc",
+    "title": "Renewable Energy",
+    "parent_id": 13620,
+    "parent_uuid": "6e5bdc69-96db-41e4-ac0b-18812b46c49c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13552,
+    "uuid": "db454275-72c1-4443-a37c-7619bcfdd9fc",
+    "title": "Atmospheric Sciences",
+    "parent_id": 13551,
+    "parent_uuid": "091d4588-f153-48cf-976d-a3f8472008a9",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13613,
+    "uuid": "db767cac-c5f5-4e33-8ee5-532138accdcf",
+    "title": "Computation Theory and Mathematics",
+    "parent_id": 13611,
+    "parent_uuid": "c78e1734-8680-4846-8bc9-92ba6e9f77ac",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13666,
+    "uuid": "dc32bd2c-86cd-4299-b5bd-2304638bc15a",
+    "title": "Other Transport",
+    "parent_id": 13661,
+    "parent_uuid": "0c90ba40-1efb-4691-9e8d-6990e66936b2",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13605,
+    "uuid": "dc67bef7-3393-4ed2-a4bd-90491e35f2ed",
+    "title": "Atomic, Molecular, Nuclear, Particle and Plasma Physics",
+    "parent_id": 13603,
+    "parent_uuid": "3208b81e-0142-4489-a094-9e7b92c61e6e",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13444,
+    "uuid": "e057e63d-b02f-4202-abf6-3803ce9eefc2",
+    "title": "Pasture, Browse and Fodder Crops",
+    "parent_id": 13440,
+    "parent_uuid": "45a8c849-ab59-4302-af79-09b8c0677df8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13388,
+    "uuid": "e28b69db-342a-4a29-a259-5f4525a23787",
+    "title": "Climate and Climate Change",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13373,
+    "uuid": "e36b99f8-e79b-4f8a-8beb-185d51c89d0a",
+    "title": "Justice and The Law",
+    "parent_id": 13369,
+    "parent_uuid": "fb9b04f5-94ce-4712-8af1-dbf69668dfff",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13671,
+    "uuid": "e3cb9b17-bb3e-4b1f-959b-3ada1335cc13",
+    "title": "Management and Productivity",
+    "parent_id": 13667,
+    "parent_uuid": "82d7c00d-d033-4440-a6f1-f64e268fed77",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13387,
+    "uuid": "e3db00d8-d620-4592-b2c1-9b3c50e3a9d4",
+    "title": "Atmosphere and Weather",
+    "parent_id": 13385,
+    "parent_uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13632,
+    "uuid": "e4af439d-cf91-4c7a-9e71-bffb77094c96",
+    "title": "Automotive Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13498,
+    "uuid": "e54b5eb5-b42c-4c97-98d6-cfb85736472f",
+    "title": "Understanding Past Societies",
+    "parent_id": 13493,
+    "parent_uuid": "71c98269-4815-434e-aa33-c02c98ec11fa",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13660,
+    "uuid": "e574b83b-64fa-4999-984b-e98c1dc8cf9f",
+    "title": "Other Technology",
+    "parent_id": 13652,
+    "parent_uuid": "c55f4887-3ee0-4036-8f48-8fb208d87095",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13486,
+    "uuid": "e6c623f3-500e-4099-9c2d-3520c8de2b69",
+    "title": "Oncology and Carcinogenesis",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13441,
+    "uuid": "e8ccd9fa-71ab-4afc-985c-916ab5359192",
+    "title": "Fisheries - Aquaculture",
+    "parent_id": 13440,
+    "parent_uuid": "45a8c849-ab59-4302-af79-09b8c0677df8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13532,
+    "uuid": "eae94057-b5ba-4061-9608-075b33d97b0f",
+    "title": "Human Pharmaceutical Products",
+    "parent_id": 13524,
+    "parent_uuid": "49bb2c48-9696-4813-ab2c-8985fb8ec1db",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13639,
+    "uuid": "ed178331-ff48-4070-bf89-481a6e9b9687",
+    "title": "Geomatic Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13548,
+    "uuid": "ed997bc2-0b61-49e2-b3dc-aa9404a836d6",
+    "title": "Media Services",
+    "parent_id": 13544,
+    "parent_uuid": "6c462056-0790-4986-8c05-c01bece615cb",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13379,
+    "uuid": "ef9f8c0f-d9bb-4e5f-bd52-98498784e7da",
+    "title": "Crop and Pasture Production",
+    "parent_id": 13376,
+    "parent_uuid": "2bdba8f2-5914-4d82-bfe8-c938cccab71f",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13375,
+    "uuid": "f1814329-301d-4a4f-b557-70bd0b434d12",
+    "title": "Other Law, Politics and Community Services",
+    "parent_id": 13369,
+    "parent_uuid": "fb9b04f5-94ce-4712-8af1-dbf69668dfff",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13542,
+    "uuid": "f39ecec6-5214-4074-af5d-62973e51365e",
+    "title": "Environmentally Sustainable Manufacturing",
+    "parent_id": 13524,
+    "parent_uuid": "49bb2c48-9696-4813-ab2c-8985fb8ec1db",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13628,
+    "uuid": "f3fcf71a-e4a7-44fe-b4ca-71b36376a12b",
+    "title": "Environmentally Sustainable Energy Activities",
+    "parent_id": 13620,
+    "parent_uuid": "6e5bdc69-96db-41e4-ac0b-18812b46c49c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13644,
+    "uuid": "f6ef6177-6d67-4fff-8961-916c7d12d053",
+    "title": "Resources Engineering and Extractive Metallurgy",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13488,
+    "uuid": "f71543db-dd2d-4cad-a213-a54cc9699c4b",
+    "title": "Paediatrics and Reproductive Medicine",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13516,
+    "uuid": "f7eecd3a-5565-46e9-9e72-0b293c609bb8",
+    "title": "Other Construction",
+    "parent_id": 13509,
+    "parent_uuid": "d8187a7c-be9c-45eb-84e9-5c6c3cf7b8c8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13634,
+    "uuid": "f8712841-1147-4951-878b-30a13c83afe2",
+    "title": "Chemical Engineering",
+    "parent_id": 13630,
+    "parent_uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13462,
+    "uuid": "f8c824e7-3b1e-45e2-a132-595ac0e13b3d",
+    "title": "Environmentally Sustainable Commercial Services and Tourism",
+    "parent_id": 13457,
+    "parent_uuid": "f661a6d5-73c0-4448-8cc0-50074eb5f198",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13469,
+    "uuid": "f8d1f75d-fd9a-4e7d-8b4e-9b1048419d15",
+    "title": "Policy and Administration",
+    "parent_id": 13464,
+    "parent_uuid": "d8a59207-d819-4697-adca-d5c4c3fafce6",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13573,
+    "uuid": "f8efcd19-013c-449e-a9ae-ddd2a30635ad",
+    "title": "Teaching and Instruction",
+    "parent_id": 13571,
+    "parent_uuid": "5766da5e-4762-4b92-b4f3-c1aab04837de",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13475,
+    "uuid": "f9d243b6-2443-4b0a-bbca-4159a83532ac",
+    "title": "Medical Biochemistry and Metabolomics",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13586,
+    "uuid": "fb0793ab-7508-41d7-8ea9-60748e1d04a5",
+    "title": "Zoology",
+    "parent_id": 13578,
+    "parent_uuid": "c9376db2-dd6d-47f1-a329-d1691fc5b485",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13468,
+    "uuid": "fb2d59cc-cc24-4e35-bccb-059e5c810fab",
+    "title": "Human Geography",
+    "parent_id": 13464,
+    "parent_uuid": "d8a59207-d819-4697-adca-d5c4c3fafce6",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13478,
+    "uuid": "fded6365-5385-4d0d-8e7e-91a081b63bcf",
+    "title": "Complementary and Alternative Medicine",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13514,
+    "uuid": "fe02d258-4e82-4bea-b354-0a37e37366bc",
+    "title": "Building Management and Services",
+    "parent_id": 13509,
+    "parent_uuid": "d8187a7c-be9c-45eb-84e9-5c6c3cf7b8c8",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13434,
+    "uuid": "fe0d8598-cb95-4cee-968a-2e28f27eba32",
+    "title": "Numerical and Computational Mathematics",
+    "parent_id": 13431,
+    "parent_uuid": "849969c4-c742-4e5b-9a26-3cf9be87ef2c",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13558,
+    "uuid": "feb30639-4926-48f5-befe-508a1b889bf2",
+    "title": "Other Earth Sciences",
+    "parent_id": 13551,
+    "parent_uuid": "091d4588-f153-48cf-976d-a3f8472008a9",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13482,
+    "uuid": "ff602b38-f201-45c2-917c-71a0f3f6de0f",
+    "title": "Medical Microbiology",
+    "parent_id": 13474,
+    "parent_uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13438,
+    "uuid": "0577b7b8-4e55-456a-b8a9-b3a37ad7c72a",
+    "title": "Expanding Knowledge",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13551,
+    "uuid": "091d4588-f153-48cf-976d-a3f8472008a9",
+    "title": "Earth Sciences",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13630,
+    "uuid": "0b4f83fd-752d-4437-b29d-43075e4ed4cc",
+    "title": "Engineering",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13661,
+    "uuid": "0c90ba40-1efb-4691-9e8d-6990e66936b2",
+    "title": "Transport",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13500,
+    "uuid": "0f682048-e983-45a9-ae74-7faeb7031169",
+    "title": "Commerce, Management, Tourism and Services",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13376,
+    "uuid": "2bdba8f2-5914-4d82-bfe8-c938cccab71f",
+    "title": "Agricultural and Veterinary Sciences",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13603,
+    "uuid": "3208b81e-0142-4489-a094-9e7b92c61e6e",
+    "title": "Physical Sciences",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13566,
+    "uuid": "3a42ce2c-903f-4483-b9c0-6b118cd6b56c",
+    "title": "Economics",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13448,
+    "uuid": "3dc1e6b4-63bb-4142-87fd-d47262d47992",
+    "title": "History and Archaeology",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13440,
+    "uuid": "45a8c849-ab59-4302-af79-09b8c0677df8",
+    "title": "Animal Production and Animal Primary Products",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13524,
+    "uuid": "49bb2c48-9696-4813-ab2c-8985fb8ec1db",
+    "title": "Manufacturing",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13401,
+    "uuid": "4d6c5f8b-5ebc-45e6-895e-ab29a802d30b",
+    "title": "Plant Production and Plant Primary Products",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13571,
+    "uuid": "5766da5e-4762-4b92-b4f3-c1aab04837de",
+    "title": "Education and Training",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13588,
+    "uuid": "61ec1b24-19dd-4e7c-957b-85a4a64ad6f9",
+    "title": "Philosophy and Religious Studies",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13362,
+    "uuid": "6322470c-bed3-40a7-890a-f6fbb96eecb8",
+    "title": "Built Environment and Design",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13415,
+    "uuid": "69b9b98e-319b-487b-845b-bfc77d8fa43a",
+    "title": "Health",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13544,
+    "uuid": "6c462056-0790-4986-8c05-c01bece615cb",
+    "title": "Information and Communication Services",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13620,
+    "uuid": "6e5bdc69-96db-41e4-ac0b-18812b46c49c",
+    "title": "Energy",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13493,
+    "uuid": "71c98269-4815-434e-aa33-c02c98ec11fa",
+    "title": "Cultural Understanding",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13421,
+    "uuid": "73da99c3-309d-4c9a-9cb3-61f58e48de21",
+    "title": "Mineral Resources (excl. Energy Resources)",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13667,
+    "uuid": "82d7c00d-d033-4440-a6f1-f64e268fed77",
+    "title": "Economic Framework",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13431,
+    "uuid": "849969c4-c742-4e5b-9a26-3cf9be87ef2c",
+    "title": "Mathematical Sciences",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13517,
+    "uuid": "9e4442e7-a3ab-490e-a92d-2cbb054144fc",
+    "title": "Language, Communication and Culture",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13453,
+    "uuid": "a88c1f76-b459-47b7-89b2-adab4e1612c6",
+    "title": "Psychology and Cognitive Sciences",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13652,
+    "uuid": "c55f4887-3ee0-4036-8f48-8fb208d87095",
+    "title": "Technology",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13611,
+    "uuid": "c78e1734-8680-4846-8bc9-92ba6e9f77ac",
+    "title": "Information and Computing Sciences",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13578,
+    "uuid": "c9376db2-dd6d-47f1-a329-d1691fc5b485",
+    "title": "Biological Sciences",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13509,
+    "uuid": "d8187a7c-be9c-45eb-84e9-5c6c3cf7b8c8",
+    "title": "Construction",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13410,
+    "uuid": "d82e7f87-5ba4-4acf-9116-deb559908f63",
+    "title": "Environmental Sciences",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13464,
+    "uuid": "d8a59207-d819-4697-adca-d5c4c3fafce6",
+    "title": "Studies in Human Society",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13559,
+    "uuid": "db8f9168-1f8a-4a82-8bad-e73003101ff7",
+    "title": "Studies in Creative Arts and Writing",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13385,
+    "uuid": "e32043b4-8450-4660-9345-5ebd20436733",
+    "title": "Environment",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13427,
+    "uuid": "e67a7b96-216d-420d-8d2c-23ed0ec3c985",
+    "title": "Law and Legal Studies",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13360,
+    "uuid": "e7bc7015-c289-41be-992a-b3a182451550",
+    "title": "Defence",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13474,
+    "uuid": "e96ec67b-0090-4e7b-bdb7-7e7d891ce506",
+    "title": "Medical and Health Sciences",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13647,
+    "uuid": "f1dde23e-da6f-4134-9bcb-e4b70ef74c27",
+    "title": "Education",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13594,
+    "uuid": "f257102c-f3f9-4c4c-9f67-6e977c683ae1",
+    "title": "Chemical Sciences",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13457,
+    "uuid": "f661a6d5-73c0-4448-8cc0-50074eb5f198",
+    "title": "Commercial Services and Tourism",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  },
+  {
+    "id": 13369,
+    "uuid": "fb9b04f5-94ce-4712-8af1-dbf69668dfff",
+    "title": "Law, Politics and Community Services",
+    "parent_id": null,
+    "parent_uuid": null,
+    "path": "",
+    "source_id": null,
+    "taxonomy_id": null
+  }
+]
