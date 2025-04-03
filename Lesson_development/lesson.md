@@ -50,12 +50,12 @@ curl "https://data.4tu.nl/v2/articles?item_type=3&limit=10&published_since=2025-
 ```
 
 - Get the description and categories of the datasets uploaded in this month 
-    - collect the dataset-id of each dataset fro
-- show how sometimes the searm the output of :
+    - collect the dataset-id of each dataset from 
+
 ```bash
 
 curl "https://data.4tu.nl/v2/articles?item_type=3&limit=10&published_since=2025-03-01" \
-| jq '.[] | "* " + .title + " (" + .doi + ") (" + .published_date + ")"' > datasets.md
+| jq '.[] | "* " + .title + " (" + .uuid + ") (" + .published_date + ")"' > datasets.md
 
 ```
 
@@ -63,7 +63,10 @@ curl "https://data.4tu.nl/v2/articles?item_type=3&limit=10&published_since=2025-
 
 ```bash
 
-curl https://data.4tu.nl/v2/articles/342efadc-66f8-4e9b-9d27-da7b28b849d2/files| jq
+curl -s https://data.4tu.nl/v2/articles/fb26fd3f-ba3c-4cf0-8926-14768a256933 \
+| jq -r '"Description: " + .description + "\nCategories: " + (.categories | map(.title) | join(", "))' \
+> datasets_description_categories.md
+
 
 ```
 
@@ -82,7 +85,6 @@ questions:
 curl --request POST  --header "Content-Type: application/json" --data '{ "search_for": "djehuty" }' https://data.4tu.nl/v2/articles/search | jq
 ```
 
-- examples that does not match (they dont return anything in the webapi  while in the website they do)
 
 ```bash
 curl --request POST  --header "Content-Type: application/json" --data '{ "search_for": "mechanical engineering" }' https://data.4tu.nl/v2/articles/search | jq

@@ -257,7 +257,7 @@ def main():
     parser = argparse.ArgumentParser(description="Fetch and report on datasets from 4TU.ResearchData published since a given date.")
     parser.add_argument("--since", type=str, default="2025-03-01", help="Start date in YYYY-MM-DD format")
     parser.add_argument("--limit", type=int, default=10, help="Maximum number of datasets to fetch")
-    parser.add_argument("--output", type=str, default="dataset_report.md", help="Output Markdown report file")
+    parser.add_argument("--output", type=str, default="Lesson_development/Outputs/dataset_report.md", help="Output Markdown report file")
     
     parser.add_argument(
     "--organization-filter", type=str,
