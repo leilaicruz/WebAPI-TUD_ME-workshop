@@ -23,6 +23,10 @@
     pip install -r Lesson_development/requirements.txt
     ``` 
 
+## To setup your api private token as environmental variables
+
+- Copy `set_env.example.sh` to `Lesson_development/secrets/set_env.sh`, add your personal token, and run `chmod +x set_env.sh` before executing the script.”
+
 ## To run the python scripts 
 
 - To access datasets
