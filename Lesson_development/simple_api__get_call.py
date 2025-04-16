@@ -1,13 +1,11 @@
 import argparse
 import requests
 import pandas as pd
-from env__utils import load_env_from_script # Load the private token from the environment variable
-import os 
 
-def fetch_articles(base_url="https://data.4tu.nl", endpoint="/v2/articles"):
+
+def fetch_articles(base_url="https://data.4tu.nl", endpoint="/v2/articles",params = {"published_since": 20250401, "limit": 10,"item_type":3}):
+
     url = base_url + endpoint
-  
-    params = {"published_since": 20250101, "limit": 10,"item_type":9}
     response = requests.get(url,headers=None,params=params,timeout=60)
     if response.ok:
         # Parse JSON response
@@ -20,11 +18,7 @@ def fetch_articles(base_url="https://data.4tu.nl", endpoint="/v2/articles"):
             "url",
             "published_date",
             "defined_type",
-            "defined_type_name",
-            "url_private_api",
-            "url_public_api",
-            "url_private_html",
-            "url_public_html"
+            "uuid"
         ]
         # Filter the articles to only include the desired columns
         filtered_articles = [
@@ -36,6 +30,7 @@ def fetch_articles(base_url="https://data.4tu.nl", endpoint="/v2/articles"):
         print(df)
     else:
         print("Error:", response.status_code, response.text)
+    return df 
 
 def main():
     parser = argparse.ArgumentParser(
@@ -60,7 +55,7 @@ def main():
   
 
 
-    fetch_articles(base_url=args.base_url, endpoint=args.endpoint)
+    fetch_articles(base_url=args.base_url, endpoint=args.endpoint,params = {"published_since": 20250401, "limit": 10,"item_type":3})
 
 if __name__ == '__main__':
     main()

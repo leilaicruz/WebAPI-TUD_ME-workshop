@@ -31,7 +31,7 @@ curl "https://data.4tu.nl/v2/articles?item_type=3&limit=10&published_since=2025-
 
 ```
 
-- Get 10 datasets published after the 01012025  and save it to a file with info of the title and doi and published date (ascending order by default)
+- (exercise) Get 10 datasets published after the 01012025  and save it to a file with info of the title and doi and published date (ascending order by default)
 
 ```bash
 
@@ -40,51 +40,7 @@ curl "https://data.4tu.nl/v2/articles?item_type=3&limit=10&published_since=2025-
 
 ```
 
-- Get 10 datasets published after the 01012025  and save it to a file with info of the title and doi and published date,in descending order (IT DOES NOT WORK)
-
-```bash
-
-curl "https://data.4tu.nl/v2/articles?item_type=3&limit=10&published_since=2025-01-01&order_direction=desc" \
-| jq '.[] | "* " + .title + " (" + .doi + ") (" + .published_date + ")"' > datasets.md
-
-```
-
-- Get the description and categories of the datasets uploaded in this month 
-    - collect the dataset-id of each dataset from 
-
-```bash
-
-curl "https://data.4tu.nl/v2/articles?item_type=3&limit=10&published_since=2025-03-01" \
-| jq '.[] | "* " + .title + " (" + .uuid + ") (" + .published_date + ")"' > datasets.md
-
-```
-
-    - Get the description and categories from the endpoint:
-
-```bash
-
-curl -s https://data.4tu.nl/v2/articles/fb26fd3f-ba3c-4cf0-8926-14768a256933 \
-| jq -r '"Description: " + .description + "\nCategories: " + (.categories | map(.title) | join(", "))' \
-> datasets_description_categories.md
-
-
-```
-
-## Download datasets
-
-questions:
-- what would be the 10 most recent datasets?
-- how would be to get the datasets from TUD? or Mechanical enginering? if that is not possible i think it iw worth to mention 
-    - What I see is that the webapi only allows retrieval of this info per dataset. 
-- does the order_direction parameter not work? 
-
-
 ## Search datasets
-
-
-```bash
-curl --request POST  --header "Content-Type: application/json" --data '{ "search_for": "djehuty" }' https://data.4tu.nl/v2/articles/search | jq
-```
 
 
 ```bash
@@ -105,7 +61,6 @@ curl --request POST  --header "Content-Type: application/json" --data '{ "search
     - go to the terminal and tye `source .env`
 
 
-
 ```bash
 
 curl --request POST --header "Authorization: token ${variable_token_name_main}" --header "Content-Type: application/json" --data '{ "search": "Leila Iñigo" }' https://data.4tu.nl/v2/account/authors/search | jq > author_info.md
@@ -114,7 +69,6 @@ curl --request POST --header "Authorization: token ${variable_token_name_main}" 
 
 
 ## Upload datasets 
-
 
 
 - simplest upload
@@ -142,6 +96,50 @@ yq '.' Lesson_development/example_metadata.yaml | curl -X POST https://next.data
 
 ```
 
-## for more complicated examples is better to use the help of Python or R. 
+## Motivation to use Python with an example
+
+- Get the description and categories of the datasets uploaded in April 2025
+    - collect the dataset-id of each dataset from 
+
+```bash
+
+curl "https://data.4tu.nl/v2/articles?item_type=3&limit=10&published_since=2025-04-01" \
+| jq '.[] | "* " + .title + " (" + .uuid + ") (" + .published_date + ")"' > datasets.md
+
+```
+
+    - Get the description and categories from the endpoint:
+
+```bash
+
+curl -s https://data.4tu.nl/v2/articles/fb26fd3f-ba3c-4cf0-8926-14768a256933 \
+| jq -r '"Description: " + .description + "\nCategories: " + (.categories | map(.title) | join(", "))' \
+> datasets_description_categories.md
+
+
+```
+### Bash script to do this 
+
+```bash
+
+curl -s "https://data.4tu.nl/v2/articles?published_since=20250401&item_type=3&limit=10" \
+| jq '.[] | {uuid: .uuid}' > article_ids.json
+
+# 2. Loop over UUIDs and fetch metadata for each
+cat article_ids.json | jq -r '.uuid' | while read uuid; do
+  curl -s "https://data.4tu.nl/v2/articles/$uuid" | jq -r '"Description: " + .description + "\nCategories: " + (.categories | map(.title) | join(", "))'>> articles_full_metadata.md
+done
+
+```
+####  Limitations of the this solution using bash
+
+- Harder to debug or extend (no native loops, error handling).
+
+- Tricky to merge the info or keep structure.
+
+### How to use the webapi with Python 
+
+- Open a python notebook and type what is in [here](get_description_categories_datasets_example.ipynb)
+
 
 ## showcase the example of using the webapi with Python using the python package [connect4tu](https://github.com/leilaicruz/connect4tu)
