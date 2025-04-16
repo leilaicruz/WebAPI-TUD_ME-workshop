@@ -141,3 +141,17 @@ To make sure you never accidentally upload your token to GitHub or another repos
 ```shell=
 .env
 ```
+
+Then, in Python :
+
+```python=
+from dotenv import load_dotenv
+import os
+import requests
+
+# Load variables from .env file
+load_dotenv()
+
+# Retrieve the token
+token = os.getenv("API_TOKEN")
+```
