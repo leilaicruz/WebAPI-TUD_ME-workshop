@@ -70,11 +70,12 @@ curl -s https://data.4tu.nl/v2/articles/fb26fd3f-ba3c-4cf0-8926-14768a256933 \
 
 ```
 
+## Download datasets
 
 questions:
 - what would be the 10 most recent datasets?
 - how would be to get the datasets from TUD? or Mechanical enginering? if that is not possible i think it iw worth to mention 
-    - WHat I see is that the webapi only allows retrieval of this info per dataset. 
+    - What I see is that the webapi only allows retrieval of this info per dataset. 
 - does the order_direction parameter not work? 
 
 
@@ -95,8 +96,20 @@ curl --request POST  --header "Content-Type: application/json" --data '{ "search
 
 ```
 
+
+
 ### Getting info of the authors of the account that the token belong to 
 
+- when using the token to access private account information
+    - create a bash script as the set_env_example.sh 
+    - run the script as an executable chmod +x set_env_example.sh
+    - run the curl command as :
+
+```bash
+
+curl --request POST --header "Authorization: token ${variable_token_name}" --header "Content-Type: application/json" --data '{ "search": "Leila Iñigo" }' https://data.4tu.nl/v2/account/authors/search | jq > author_info.md
+
+``` 
 
 ```bash
 
