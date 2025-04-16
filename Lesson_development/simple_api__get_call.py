@@ -1,6 +1,8 @@
 import argparse
 import requests
 import pandas as pd
+from env__utils import load_env_from_script # Load the private token from the environment variable
+import os 
 
 def fetch_articles(api_token, base_url="https://data.4tu.nl", endpoint="/v2/articles"):
     url = base_url + endpoint
@@ -41,12 +43,9 @@ def main():
     parser = argparse.ArgumentParser(
         description="Fetch articles from Djehuty API and display selected fields in a DataFrame."
     )
-    parser.add_argument(
-        "--token",
-        type=str,
-        default="b2a303da71b7d4b2956877113b8cc6d5403b511430f131131243800098545651752d0eb9d93e856bc945a67f4c5561422fadf696989cd3401f1c576318b7f20a",
-        help="API token for authentication (default: YOUR_API_TOKEN)"
-    )
+    parser.add_argument("--token", type=str, default="Lesson_development/secrets/set_env.sh",
+                        help="Path to the shell script exporting the API token (default: set_env.sh)")
+    
     parser.add_argument(
         "--base_url",
         type=str,
@@ -61,7 +60,15 @@ def main():
     )
     args = parser.parse_args()
 
-    fetch_articles(api_token=args.token, base_url=args.base_url, endpoint=args.endpoint)
+    # Load token from environment script
+    load_env_from_script(args.token)
+
+    api_token = os.getenv("NEXT_API_TOKEN")
+    if not api_token:
+        raise ValueError("Environment variable NEXT_API_TOKEN not found. Please check your shell script.")
+
+
+    fetch_articles(api_token=api_token, base_url=args.base_url, endpoint=args.endpoint)
 
 if __name__ == '__main__':
     main()

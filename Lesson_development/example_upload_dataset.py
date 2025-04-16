@@ -28,8 +28,8 @@ def main():
     parser = argparse.ArgumentParser(
         description="Upload a dataset to 4TU using metadata provided in a YAML file."
     )
-    parser.add_argument("yaml_file", help="Path to the metadata YAML file.")
-    parser.add_argument("--env_script", type=str, default="Lesson_development/secrets/set_env.sh",
+    parser.add_argument("--yaml file", help="Path to the metadata YAML file.")
+    parser.add_argument("--token", type=str, default="Lesson_development/secrets/set_env.sh",
                         help="Path to the shell script exporting the API token (default: set_env.sh)")
     parser.add_argument("--base_url", type=str, default="https://next.data.4tu.nl",
                         help="Base URL for the 4TU API (default: https://next.data.4tu.nl)")
@@ -38,7 +38,7 @@ def main():
     args = parser.parse_args()
 
     # Load token from environment script
-    load_env_from_script(args.env_script)
+    load_env_from_script(args.token)
 
     api_token = os.getenv("NEXT_API_TOKEN")
     if not api_token:
