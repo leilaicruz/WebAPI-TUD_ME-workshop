@@ -3,6 +3,4 @@ requests
 pyyaml
 argparse 
 datetime
-sys
-subprocess
-os 
+dotenv 

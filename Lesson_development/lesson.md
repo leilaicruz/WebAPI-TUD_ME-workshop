@@ -101,32 +101,27 @@ curl --request POST  --header "Content-Type: application/json" --data '{ "search
 ### Getting info of the authors of the account that the token belong to 
 
 - when using the token to access private account information
-    - create a bash script as the set_env_example.sh 
-    - run the script as an executable chmod +x set_env_example.sh
-    - run the curl command as :
+    - create a .env file at the root of the folder with the token value : `name_token=bkabskabskabskabsa`
+    - go to the terminal and tye `source .env`
+
+
 
 ```bash
 
-curl --request POST --header "Authorization: token ${variable_token_name}" --header "Content-Type: application/json" --data '{ "search": "Leila Iñigo" }' https://data.4tu.nl/v2/account/authors/search | jq > author_info.md
+curl --request POST --header "Authorization: token ${variable_token_name_main}" --header "Content-Type: application/json" --data '{ "search": "Leila Iñigo" }' https://data.4tu.nl/v2/account/authors/search | jq > author_info.md
 
 ``` 
 
-```bash
-
-curl --request POST --header "Authorization: token YOUR_API_TOKEN_MAIN" --header "Content-Type: application/json" --data '{ "search": "Leila Iñigo" }' https://data.4tu.nl/v2/account/authors/search | jq > author_info.md
-
-``` 
 
 ## Upload datasets 
 
 
-- use a bash script here to not write the token in the terminal 
 
 - simplest upload
 
 ```bash
 
-curl --header "Authorization: token YOUR_TOKEN_NEXT" --header "Content-Type: application/json" --data '{ "title": "Example dataset" }' https://data.4tu.nl/v2/account/articles | jq
+curl --header "Authorization: token ${variable_token_name_next}" --header "Content-Type: application/json" --data '{ "title": "Example dataset" }' https://data.4tu.nl/v2/account/articles | jq
 
 ```
 

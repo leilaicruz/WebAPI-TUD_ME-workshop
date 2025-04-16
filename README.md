@@ -25,7 +25,11 @@
 
 ## To setup your api private token as environmental variables
 
-- Copy `set_env.example.sh` to `Lesson_development/secrets/set_env.sh`, add your personal token, and run `chmod +x set_env.sh` before executing the script.”
+- Create a `.env` file at the root of your project
+- Write in the following format your private token(s) 
+`TOKEN_xx=BLABLABLABLABLBALBA`
+- Type in the terminal `source .env`
+- Then anywhere you use the token as part of your API call , use `${TOKEN_xx}` to invoke it. 
 
 ## To run the python scripts 
 

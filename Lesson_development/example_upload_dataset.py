@@ -3,10 +3,17 @@ import requests
 import json 
 import yaml
 import os
-from env__utils import load_env_from_script # Load the private token from the environment variable
+from dotenv import load_dotenv # Load the .env file
 
 
-def upload_dataset(metadata, api_token, base_url="https://next.data.4tu.nl", endpoint="/v2/account/articles"):
+# Load variables from .env file
+load_dotenv()
+
+# Retrieve the token
+token = os.getenv("API_TOKEN_NEXT")
+
+def upload_dataset(metadata, api_token=token, base_url="https://next.data.4tu.nl", 
+                   endpoint="/v2/account/articles"):
     """
     Uploads a dataset to 4TU.ResearchData using the provided metadata.
     """
@@ -28,19 +35,19 @@ def main():
     parser = argparse.ArgumentParser(
         description="Upload a dataset to 4TU using metadata provided in a YAML file."
     )
-    parser.add_argument("--yaml file", help="Path to the metadata YAML file.")
-    parser.add_argument("--token", type=str, default="Lesson_development/secrets/set_env.sh",
-                        help="Path to the shell script exporting the API token (default: set_env.sh)")
+    parser.add_argument("--yaml_file", help="Path to the metadata YAML file.")
+    parser.add_argument("--token", type=str, default=token,
+                        help="Name of the environmental variable with the token")
     parser.add_argument("--base_url", type=str, default="https://next.data.4tu.nl",
                         help="Base URL for the 4TU API (default: https://next.data.4tu.nl)")
     parser.add_argument("--endpoint", type=str, default="/v2/account/articles",
                         help="API endpoint to deposit the dataset (default: /v2/account/articles)")
     args = parser.parse_args()
 
-    # Load token from environment script
-    load_env_from_script(args.token)
+ 
 
-    api_token = os.getenv("NEXT_API_TOKEN")
+    api_token = token
+
     if not api_token:
         raise ValueError("Environment variable NEXT_API_TOKEN not found. Please check your shell script.")
 
