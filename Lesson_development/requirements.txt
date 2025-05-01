@@ -1,6 +1,0 @@
-pandas
-requests
-pyyaml
-argparse 
-datetime
-dotenv 
