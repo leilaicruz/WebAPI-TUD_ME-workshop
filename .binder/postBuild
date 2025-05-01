@@ -1,4 +1,5 @@
 #!/bin/bash
-echo "Installing system packages..."
-apt-get update
-apt-get install -y jq curl
+echo "Installing system packages with sudo..."
+sudo apt-get update
+sudo apt-get install -y jq curl
+
