@@ -22,7 +22,7 @@
     - Step 3: Install libraries
 
     ```bash
-    pip install -r Lesson_development/requirements.txt
+    pip install -r  requirements.txt
     ``` 
 
 ## To setup your api private token as environmental variables

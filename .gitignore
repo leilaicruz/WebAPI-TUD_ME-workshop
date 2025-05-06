@@ -6,3 +6,8 @@ Lesson_development/curl_playground.sh
 Lesson_development/Outputs/
 .env
 .ipynb_checkpoints/
+*json
+*.py
+Lesson_development/lesson.md
+*.sh
+Lesson_development/metadata_model_upload_dataset.yaml

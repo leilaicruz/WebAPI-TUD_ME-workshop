@@ -1,0 +1,6 @@
+pandas
+requests
+pyyaml
+argparse
+python-dotenv
+ipykernel
