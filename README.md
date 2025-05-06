@@ -1,6 +1,6 @@
 # Workshop on using the WebAPI of 4TU.ResearchData
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leilaicruz/WebAPI-TUD_ME-workshop/HEAD?urlpath=%2Fdoc%2Ftree%2Fparticipants_live_code.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leilaicruz/WebAPI-TUD_ME-workshop/HEAD?urlpath=%2Fdoc%2Ftree%2FLive-coding-notebook.ipynb)
 
 ## Tools 
 
