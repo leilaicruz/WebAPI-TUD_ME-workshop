@@ -3,3 +3,5 @@ requests
 pyyaml
 argparse
 python-dotenv
+yq
+pyyaml
