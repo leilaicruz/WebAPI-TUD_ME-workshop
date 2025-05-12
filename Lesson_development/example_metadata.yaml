@@ -32,41 +32,65 @@ authors: [{ "first_name": "John" ,"full_name": "John Doe","last_name": "Doe", "o
 { "first_name": "Linda" ,"full_name": "Linda Pig","last_name": "Pig", "orcid_id": "0000-0003-4324-4230"}]
   
 
-# # Defined type of the dataset. Options include: figure, online resource, preprint, book,
-# # conference contribution, media, dataset, poster, journal contribution, presentation, thesis, software.
-# defined_type: "dataset"
+# Defined type of the dataset. Options include: figure, online resource, preprint, book,
+# conference contribution, media, dataset, poster, journal contribution, presentation, thesis, software.
+defined_type: "dataset"
 
-# # One-liner to cite funding.
-# funding: "Funded by the XYZ Grant"
+# One-liner to cite funding.
+funding: "Funded by the XYZ Grant"
 
-# # List of funding records.
-# # Each funding record can include details like funding source, amount, and grant number.
-# funding_list:
-#   - source: "XYZ Grant Agency"
-#     grant_number: "XYZ-1234"
+# List of funding records.
+# Each funding record can include details like funding source, amount, and grant number.
+funding_list: [{ "title": "Magic Money Tree Fund","funder_name": "Open Tree" },{"title": "Another Fund" ,"funder_name": "Another Tree"}]
 
-# # Licence under which the dataset can be re-used.
-# # Use the integer value corresponding to the licence (retrieved via /v2/licenses). (See licenses.json)
+# Licence under which the dataset can be re-used.
+# Use the integer value corresponding to the licence (retrieved via /v2/licenses). (See licenses.json)
 license: 1
 
-# # An ISO 639-1 language code.
-# language: "en"
+# An ISO 639-1 language code.
+language: "en"
 
-# # DOI field; leave empty as a DOI will be automatically assigned upon publication.
-# doi: ""
+# DOI field; leave empty as a DOI will be automatically assigned upon publication.
+doi: ""
 
-# # URL of the DOI for an associated peer-reviewed journal publication.
-# resource_doi: ""
+# URL of the DOI for an associated peer-reviewed journal publication.
+resource_doi: ""
 
-# # Title of the associated peer-reviewed journal publication.
-# resource_title: ""
+# Title of the associated peer-reviewed journal publication.
+resource_title: ""
 
-# # Name of the data repository publishing the dataset.
-# publisher: "4TU.ResearchData"
 
-# # Custom fields as a list of key-value pairs for any additional metadata.
-# custom_fields:
-#   - key: "additional_info"
-#     value: "Additional information about the dataset."
-#   - key: "geographical_coverage"
-#     value: "Global"
+# Custom fields as a list of key-value pairs for any additional metadata.
+custom_fields_list: [
+    {
+      "name": "contributors",
+      "value": "John Doe, Linda Pig",
+      
+    },
+    {  
+      "name": "data_link",
+      "value": "https://example.com/data_link"
+      
+    },
+    {
+      "name": "publisher",
+      "value": "4TU.ResearchData"
+    
+    },
+    {
+      "name": "organizations",
+      "value": "Organization 1, Organization 2"
+    
+    },
+    {
+      "name": "language",
+      "value": "en"
+    
+    },
+    {
+      "name": "format",
+      "value": ".csv, .txt "
+    
+    }
+       
+  ]
