@@ -1,26 +1,14 @@
-# are none required fields? 
 # Title of the dataset
 title: "My coolest dataset ever"
 
 # # A detailed description of the dataset.
 description: "A description of the dataset covering its purpose, scope, contents and file formats"
 
-# # Keywords to enhance findability. You can use either tags or keywords.
-# tags: 
-#   - "tag1"
-#   - "tag2"
-#   - "tag3"
 
 # # Alternatively, you can use keywords.
 keywords: ["nanofabrication","mechanical properties","nanocomposites"]
-#   - "keyword1"
-#   - "keyword2"
-#   - "keyword3"
 
-# # URLs to resources referring to this dataset, or resources that this dataset refers to.
-# references:
-#   - ""
-#   - ""
+
 
 # # Categories as controlled vocabulary. Replace these with the actual UUIDs from /v2/categories.(see categories.json)
 categories: ["c1b8cd5f-1fb7-4de9-9033-9c98e0f3a8ca","13659","60977a21-b79e-41d9-935a-04ecc6c09a57"]
