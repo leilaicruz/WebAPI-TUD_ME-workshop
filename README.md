@@ -2,6 +2,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leilaicruz/WebAPI-TUD_ME-workshop/HEAD?urlpath=%2Fdoc%2Ftree%2FLesson_development%2Fwebapi_4TU_workshop.ipynb)
 
+# Collaborative document
+
+
+
 ## Overview & Objectives
 
 By the end of this 90-minute workshop, you will:
