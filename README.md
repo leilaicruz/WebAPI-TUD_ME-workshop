@@ -4,6 +4,7 @@
 
 # Collaborative document
 
+[Collaborative document in Codimd](https://codimd.rs.tudelft.nl/s/x4iOSfOch)
 
 
 ## Overview & Objectives
